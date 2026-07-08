@@ -1,6 +1,5 @@
 ## 📊 Trader Behavior Insights: Decoding Crypto Market Psychology
 Can market emotions predict trading success? I analyzed real Hyperliquid trading data against Bitcoin's Fear/Greed Index to find out — and the results reveal a clear, actionable pattern.
-## 💼 Relevance: This project reflects the exact skill set Infosys's Digital Specialist Engineer (DSE) role demands — turning messy, real-world data into structured, business-ready insights using Python and data analysis.
 ## 🎯 The Question
 Does market sentiment (Fear vs Greed) actually impact how profitable traders are? I dug into real trade-level data to uncover the answer.
 ## 📁 Datasets
@@ -8,8 +7,11 @@ Bitcoin Fear/Greed Index — daily sentiment classification (Extreme Fear → Ex
 Hyperliquid Trader Data — real trade records: account, coin, price, size, side, PnL, timestamps
 ## 🔍 What I Did
 ✅ Cleaned & merged two datasets by date
+
 ✅ Analyzed profit, win rate & volume across 5 sentiment regimes
+
 ✅ Compared Buy vs Sell performance by sentiment
+
 ✅ Benchmarked top 10 profitable accounts vs the average trader
 ## 💡 Key Insights
 ## 🔥 Sentiment predicts performance
